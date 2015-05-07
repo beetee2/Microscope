@@ -1,3 +1,7 @@
+### What's Different?
+
+This is just Microscope, with a fix to meteor pagination so that 'load more' isn't displayed when there aren't any Posts in MongoDB.
+
 # Microscope
 
 Microscope is a simple social news app that lets you share links, comment, and vote on them.
